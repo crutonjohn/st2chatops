@@ -22,7 +22,10 @@
     "hubot-slack": "^4.5.5",
     "hubot-spark": "git+https://github.com/tonybaloney/hubot-spark.git#c440504",
     "hubot-stackstorm": "^0.12.0",
-    "hubot-xmpp": "^0.2.5"
+    "hubot-xmpp": "^0.2.5",
+    "hubot-discord": "^1.1.0",
+    "yo": "^4.3.0",
+    "generator-hubot": "^0.4.0"
   },
   "engines": {
     "node": ">=10.0 <=14.0"
